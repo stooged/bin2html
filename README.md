@@ -1,11 +1,10 @@
 # bin2html
 
-convert .bin payloads to a single .html file for 5.05
+convert .bin payloads to a single index.html file for 5.05
 
-usage:
+<b>usage:</b>
+bin2html.py [binfile]
 
-bin2html.py <binfile>
 
-example:
-
+<b>example:</b>
 bin2html.py AppToUsb.bin
